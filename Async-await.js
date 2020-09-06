@@ -12,7 +12,6 @@ async function callAPI() {
     return "John Doe";
 }
 
-//IIFE (Immidiate Invoked function expression)
 (async _ => {
     let dataWithAwait = await callAPI();
     let dataWithoutAwait = callAPI();

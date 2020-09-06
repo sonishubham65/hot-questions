@@ -1,0 +1,27 @@
+Call stack
+Primitive types
+Value Types and Reference Types
+Function scope, Block scope, and Lexical scope
+IIFE, Modules, and Namespaces
+DOM and Layout Trees
+this, call, apply and bind
+Prototype inheritance and Prototype Chain
+Object.create and Object.assign
+map, reduce, filter
+Pure Functions
+Closures
+High Order functions
+Promises
+async/await
+Inheritance, Polymorphism and Code Reuse
+setTimeout,setInterval
+Collections and Generators
+Message Queue and Event Loop
+Hoisting
+0. call, apply and bind method
+1. Polyfill for bind method
+
+Atomacity: whehter transaction happen or not.
+Consistency: bring a valid state of db to another.
+isolation: other transaction isolate each other.
+durability: db will be functional when tx.

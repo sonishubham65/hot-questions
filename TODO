@@ -8,7 +8,7 @@ Generator function in javascript function* yield .next
 Radish,
 RabbitMQ
 Promise.all one fails
-
+Promise.allSettled
 
 why do we use cluster?
 To take advantage of multi-core systems
