@@ -1,0 +1,17 @@
+Design patterns,
+State management in Angular,
+Higher order function, callback function, a function as a parameter
+Spread operator and rest operator
+Currying function in javascript ()()()
+Generator function in javascript function* yield .next
+
+Radish,
+RabbitMQ
+Promise.all one fails
+
+
+why do we use cluster?
+To take advantage of multi-core systems
+
+Auth process with cookie
+Promise.allSettled
